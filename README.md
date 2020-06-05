@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://www.lpi.org/our-certifications/summary-of-certifications"></a><img src="images/lpic.png"></p>
+<a href="https://www.lpi.org/our-certifications/summary-of-certifications"><img src="images/lpic.png"></a>
+</p>
 
 ## About LPIC courses
 Linux Professional Institute offers three different certification tracks. The core certification program, Linux Professional, contains three different levels addressing distinct aspects of Linux system administration.
