@@ -2,6 +2,7 @@
 
 ## About LPIC courses
 Linux Professional Institute offers three different certification tracks. The core certification program, Linux Professional, contains three different levels addressing distinct aspects of Linux system administration.
+I want to teach LPIC cources in github and put tips, tricks and some exercises to do the job.
 
 ### LEC Linux Professional Institute Linux Essentials
 - What: Ability to use basic console line editor and demonstrate an understanding of processes, programs and components of the Linux Operating System.
